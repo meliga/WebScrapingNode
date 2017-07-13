@@ -1,0 +1,16 @@
+{
+  "name": "NodeScraping",
+  "version": "0.0.0",
+  "description": "",
+  "main": "scraping.js",
+  "dependencies": {
+    "request": "~2.81.0",
+    "cheerio": "~1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
